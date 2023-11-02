@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cafeteria Application</string>
+    <string name="forgotpass">Forgot password?</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="signup">Register</string>
+    <string name="register">Create an account</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_id">Student/Staff ID</string>
+    <string name="displayName">Full Name</string>
+    <string name="mobile">Mobile No</string>
+    <string name="prompt_confirm_password">Confirm password</string>
+    <string name="prompt_name">Name</string>
+    <string name="student_staff_id">Student/Staff ID</string>
+
+
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+</resources>
